@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38327" started-at="2020-11-29T11:03:37 EST" finished-at="2020-11-29T11:04:15 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38327" started-at="2020-11-29T11:03:37 EST" finished-at="2020-11-29T11:04:15 EST">
+      <class name="customerOrder.Base">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:customerOrder.Base@551aa95a]" name="initialization" is-config="true" duration-ms="8491" started-at="2020-11-29T11:03:37 EST" finished-at="2020-11-29T11:03:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="bookWithQsmiles()[pri:0, instance:customerOrder.Base@551aa95a]" name="bookWithQsmiles" duration-ms="12" started-at="2020-11-29T11:03:45 EST" finished-at="2020-11-29T11:03:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookWithQsmiles -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:customerOrder.Base@551aa95a]" name="BrowserClose" is-config="true" duration-ms="1" started-at="2020-11-29T11:03:45 EST" finished-at="2020-11-29T11:03:45 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:customerOrder.Base@551aa95a]" name="initialization" is-config="true" duration-ms="6104" started-at="2020-11-29T11:03:45 EST" finished-at="2020-11-29T11:03:51 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="changeLocation()[pri:0, instance:customerOrder.Base@551aa95a]" name="changeLocation" duration-ms="3051" started-at="2020-11-29T11:03:51 EST" finished-at="2020-11-29T11:03:54 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeLocation -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:customerOrder.Base@551aa95a]" name="BrowserClose" is-config="true" duration-ms="1" started-at="2020-11-29T11:03:54 EST" finished-at="2020-11-29T11:03:54 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+        <test-method status="PASS" signature="initialization()[pri:0, instance:customerOrder.Base@551aa95a]" name="initialization" is-config="true" duration-ms="6964" started-at="2020-11-29T11:03:54 EST" finished-at="2020-11-29T11:04:01 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="doubleClickelement()[pri:0, instance:customerOrder.Base@551aa95a]" name="doubleClickelement" duration-ms="13669" started-at="2020-11-29T11:04:01 EST" finished-at="2020-11-29T11:04:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doubleClickelement -->
+        <test-method status="PASS" signature="BrowserClose()[pri:0, instance:customerOrder.Base@551aa95a]" name="BrowserClose" is-config="true" duration-ms="0" started-at="2020-11-29T11:04:15 EST" finished-at="2020-11-29T11:04:15 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserClose -->
+      </class> <!-- customerOrder.Base -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
